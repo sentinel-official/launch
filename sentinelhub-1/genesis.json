@@ -1531,8 +1531,8 @@
         "blocks_per_year": "5259600",
         "goal_bonded": "0.670000000000000000",
         "inflation_max": "0.550000000000000000",
-        "inflation_min": "0.470000000000000000",
-        "inflation_rate_change": "0.080000000000000000",
+        "inflation_min": "0.490000000000000000",
+        "inflation_rate_change": "0.060000000000000000",
         "mint_denom": "udvpn"
       }
     },
