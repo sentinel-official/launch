@@ -2420,9 +2420,9 @@
     "swap": {
       "_": null,
       "params": {
-        "approve_by": "",
+        "approve_by": "sent10xwz90ze6pfx3xtct39ekj0u8tqv4nr9zc8zvj",
         "swap_denom": "udvpn",
-        "swap_enabled": false
+        "swap_enabled": true
       }
     },
     "upgrade": {},
