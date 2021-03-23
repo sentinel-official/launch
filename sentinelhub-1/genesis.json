@@ -1557,7 +1557,7 @@
           "type": "cosmos-sdk/ContinuousVestingAccount",
           "value": {
             "account_number": "0",
-            "address": "sent1mz6klk7n8w2n59axv9evlkddphlaz3t5kcazwv",
+            "address": "sent1s88cq7g7geukqccwrw7t6kaq8csq00na3x708t",
             "coins": [
               {
                 "amount": "100000000000000",
